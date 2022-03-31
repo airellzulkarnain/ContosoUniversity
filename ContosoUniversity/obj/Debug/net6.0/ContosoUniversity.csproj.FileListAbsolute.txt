@@ -525,3 +525,4 @@ C:\Users\Airell Zulkarnain\Documents\Projects\ContosoUniversity\ContosoUniversit
 C:\Users\Airell Zulkarnain\Documents\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.pdb
 C:\Users\Airell Zulkarnain\Documents\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.genruntimeconfig.cache
 C:\Users\Airell Zulkarnain\Documents\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ref\ContosoUniversity.dll
+C:\Users\Mybook 14G\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
