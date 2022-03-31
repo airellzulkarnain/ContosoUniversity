@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\Mybook 14G\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\obj\\",
+        "projectPath": "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\Airell Zulkarnain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mybook 14G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Airell Zulkarnain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.3, )"
