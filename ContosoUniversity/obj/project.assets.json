@@ -9484,19 +9484,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mybook 14G\\.nuget\\packages\\": {}
+    "C:\\Users\\Airell Zulkarnain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
-      "packagesPath": "C:\\Users\\Mybook 14G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mybook 14G\\Documents\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "projectPath": "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "packagesPath": "C:\\Users\\Airell Zulkarnain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Airell Zulkarnain\\Documents\\Projects\\ContosoUniversity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mybook 14G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Airell Zulkarnain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
